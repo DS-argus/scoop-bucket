@@ -1,0 +1,2 @@
+# Keep the reviewed release manifest byte-identical, including its CRLF endings.
+bucket/modeleaf.json -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
