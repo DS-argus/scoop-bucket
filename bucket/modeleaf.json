@@ -16,6 +16,8 @@
       "Modeleaf"
     ]
   ],
+  "post_install": "& \"$dir\\modeleaf-pdf-handler.ps1\" Register \"$dir\\modeleaf.exe\"",
+  "pre_uninstall": "& \"$dir\\modeleaf-pdf-handler.ps1\" Unregister \"$dir\\modeleaf.exe\"",
   "notes": [
     "Requires Windows 11 x64.",
     "Requires the Microsoft Edge WebView2 Runtime to be installed."
