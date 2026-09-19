@@ -1,12 +1,12 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Keyboard-first read-only PDF viewer for Windows",
   "homepage": "https://github.com/DS-argus/modeleaf-win",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/DS-argus/modeleaf-win/releases/download/v0.1.4/modeleaf-0.1.4-windows-x64.zip",
-      "hash": "aeac4af72c0f47dc73a5bb4fcf8504284e903d36d4ad6377e3e2b8c09f6bc8d4"
+      "url": "https://github.com/DS-argus/modeleaf-win/releases/download/v0.1.5/modeleaf-0.1.5-windows-x64.zip",
+      "hash": "ab10804a1a09b24cfaeb62b45adc5d67b508e767ac2e0f4c39e430989a72b64c"
     }
   },
   "bin": "modeleaf.exe",
